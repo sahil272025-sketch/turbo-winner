@@ -1,0 +1,3 @@
+rootProject.name = "SPM Messenger"
+include ':app'
+init project
